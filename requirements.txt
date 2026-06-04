@@ -8,5 +8,5 @@ memory_profiler
 streamlit
 scikit-learn
 NLTK
-tensorflow
+tensorflow==2.19.0
 tensorBoard
